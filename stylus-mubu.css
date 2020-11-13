@@ -1,0 +1,26 @@
+.outliner-node .content {
+  font-family: 'operator mono';
+  font-size: 15px;
+}
+
+.title .mm-editor {
+  font-family: 'operator mono';
+}
+
+.outliner-title .title {
+  font-weight: normal;
+  color: #777;
+}
+
+.outliner-node .bullet-wrapper .bullet-border .bullet-dot {
+  background-color: #cccccc4f;
+}
+
+#list-wrapper .file .hotspot {
+  font-size: 15px;
+  font-family: 'operator mono';
+}
+
+.outliner-indent-container .indent-item {
+  border-left: 1px solid #dee0e32b;
+}
